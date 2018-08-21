@@ -1,12 +1,12 @@
 {
-    "name": "Tchalee/phpmqtt",
+    "name": "Tchalee/phpMQTT",
     "description": "Simple MQTT Class",
     "license": "BSD",
     "type": "library",
     "authors": [
         {
-            "name": "Andrew Milsted",
-            "email": "andrew@bluerhinos.co.uk"
+            "name": "appwar",
+            "email": "chaleeza_tauei@hotmail.com"
         }
     ],
     "minimum-stability": "dev",
